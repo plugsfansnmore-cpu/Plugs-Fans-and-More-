@@ -1,5 +1,5 @@
 <html lang="en">
-  <img src="assets/images/logo.png" alt="Plugs Fans and More Logo" class="logo">
+  <img src="assets/images/logo.png" alt="Plugs Fans and More Logo" class="logo"><img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa7013c6-e1bc-4312-8cb0-9f2e285f28b6" />
 
 <head>
   <meta charset="UTF-8" />

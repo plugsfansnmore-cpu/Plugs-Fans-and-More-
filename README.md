@@ -1,4 +1,6 @@
 <html lang="en">
+  <img src="assets/images/logo.png" alt="Plugs Fans and More Logo" class="logo">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
